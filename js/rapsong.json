@@ -11,7 +11,7 @@
         "id":"02",
         "name":"Drunk Face",
         "singer":"MGK",
-        "pic":"MGK - drunk face.jpg",
+        "pic":"MGK - drunk face.png",
         "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> drunk face <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/drunk-face_Machine-Gun-Kelly.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     },
     {
@@ -32,14 +32,14 @@
         "id":"05",
         "name":"Hypnotize",
         "singer":"Bigbie",
-        "pic":"Bigbie - Hypnotize.jpg",
+        "pic":"Biggie - Hypnotize.jpg",
         "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Hypnotize <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Hypnotize_Biggie.mp3\u0022 ></audio></div>"
     },
     {
         "id":"06",
         "name":"BUTTERFLY EFFECT",
         "singer":"Travic Scott",
-        "pic":"Travic Scott BUTTERFLY EFFECT.jpg",
+        "pic":"Travic Scott BUTTERFLY EFFECT.png",
         "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> BUTTERFLY EFFECT <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/BUTTERFL- EFFECT_Travis-Scott.mp3\u0022 ></audio></div>"
     }
 ]
