@@ -1,38 +1,44 @@
 [
     {
         "id":"01",
-        "name":"Eminem",
-        "description":"Marshall Bruce Mathers III (born October 17, 1972), commonly known by his stage name Eminem (often stylized as EMINƎM) is an American male rapper, musician, record producer, and actor. Considered the person who popularized hip hop in Central America, its global success and Eminem's acclaimed music products broke the racial barrier to make it easier for white rappers to embrace it. He became a representative of the lower class of American society. He is a influential artist of various genres. Eminem is one of the best-selling music artists of all time, with an estimated sales of more than 220 million records worldwide. He is also the best-selling music artist in the United States in the 2000s and the best-selling male music artist of the 2010s, ranking third overall. Billboard named him the Artist of the decade (2000–2009). He has won many prestigious awards, including 15 Grammy Awards, 8 American Music Awards, 17 Billboard Music Awards, an Oscar and a MTV Europe Global Music Icon Award. He has ten albums topped the Billboard 200, making him the only artist to achieve this feat and five number one singles on the Billboard Hot 100. Some featured albums: Infinite, The Marshall Mathers LP, The Eminem Show ...",
-        "pic":"eminem copy.jpg"
+        "name":" Hostage",
+        "singer":"Jane & The Boy",
+        "pic":"Jane & the boy - Hostage.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     },
     {
         "id":"02",
-        "name":"Eminem",
-        "description":"Marshall Bruce Mathers III (born October 17, 1972), commonly known by his stage name Eminem (often stylized as EMINƎM) is an American male rapper, musician, record producer, and actor. Considered the person who popularized hip hop in Central America, its global success and Eminem's acclaimed music products broke the racial barrier to make it easier for white rappers to embrace it. He became a representative of the lower class of American society. He is a influential artist of various genres. Eminem is one of the best-selling music artists of all time, with an estimated sales of more than 220 million records worldwide. He is also the best-selling music artist in the United States in the 2000s and the best-selling male music artist of the 2010s, ranking third overall. Billboard named him the Artist of the decade (2000–2009). He has won many prestigious awards, including 15 Grammy Awards, 8 American Music Awards, 17 Billboard Music Awards, an Oscar and a MTV Europe Global Music Icon Award. He has ten albums topped the Billboard 200, making him the only artist to achieve this feat and five number one singles on the Billboard Hot 100. Some featured albums: Infinite, The Marshall Mathers LP, The Eminem Show ...",
-        "pic":"eminem copy.jpg"
+        "name":"Bedroom",
+        "singer":"Raquel Castro The Wildcardz",
+        "pic":"Bedroom - Raquel Castro  The Wildcardz.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     },
     {
         "id":"03",
-        "name":"Eminem",
-        "description":"Marshall Bruce Mathers III (born October 17, 1972), commonly known by his stage name Eminem (often stylized as EMINƎM) is an American male rapper, musician, record producer, and actor. Considered the person who popularized hip hop in Central America, its global success and Eminem's acclaimed music products broke the racial barrier to make it easier for white rappers to embrace it. He became a representative of the lower class of American society. He is a influential artist of various genres. Eminem is one of the best-selling music artists of all time, with an estimated sales of more than 220 million records worldwide. He is also the best-selling music artist in the United States in the 2000s and the best-selling male music artist of the 2010s, ranking third overall. Billboard named him the Artist of the decade (2000–2009). He has won many prestigious awards, including 15 Grammy Awards, 8 American Music Awards, 17 Billboard Music Awards, an Oscar and a MTV Europe Global Music Icon Award. He has ten albums topped the Billboard 200, making him the only artist to achieve this feat and five number one singles on the Billboard Hot 100. Some featured albums: Infinite, The Marshall Mathers LP, The Eminem Show ...",
-        "pic":"eminem copy.jpg"
+        "name":"All the Way Up",
+        "singer":"Hadar Sopher",
+        "pic":"All the Way Up - Hadar Sopher.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     },
     {
         "id":"04",
-        "name":"Eminem",
-        "description":"Marshall Bruce Mathers III (born October 17, 1972), commonly known by his stage name Eminem (often stylized as EMINƎM) is an American male rapper, musician, record producer, and actor. Considered the person who popularized hip hop in Central America, its global success and Eminem's acclaimed music products broke the racial barrier to make it easier for white rappers to embrace it. He became a representative of the lower class of American society. He is a influential artist of various genres. Eminem is one of the best-selling music artists of all time, with an estimated sales of more than 220 million records worldwide. He is also the best-selling music artist in the United States in the 2000s and the best-selling male music artist of the 2010s, ranking third overall. Billboard named him the Artist of the decade (2000–2009). He has won many prestigious awards, including 15 Grammy Awards, 8 American Music Awards, 17 Billboard Music Awards, an Oscar and a MTV Europe Global Music Icon Award. He has ten albums topped the Billboard 200, making him the only artist to achieve this feat and five number one singles on the Billboard Hot 100. Some featured albums: Infinite, The Marshall Mathers LP, The Eminem Show ...",
-        "pic":"eminem copy.jpg"
+        "name":"I Got Me",
+        "singer":"Jane & The Boy",
+        "pic":"I Got Me - Jane & The Boy.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     },
     {
         "id":"05",
-        "name":"Eminem",
-        "description":"Marshall Bruce Mathers III (born October 17, 1972), commonly known by his stage name Eminem (often stylized as EMINƎM) is an American male rapper, musician, record producer, and actor. Considered the person who popularized hip hop in Central America, its global success and Eminem's acclaimed music products broke the racial barrier to make it easier for white rappers to embrace it. He became a representative of the lower class of American society. He is a influential artist of various genres. Eminem is one of the best-selling music artists of all time, with an estimated sales of more than 220 million records worldwide. He is also the best-selling music artist in the United States in the 2000s and the best-selling male music artist of the 2010s, ranking third overall. Billboard named him the Artist of the decade (2000–2009). He has won many prestigious awards, including 15 Grammy Awards, 8 American Music Awards, 17 Billboard Music Awards, an Oscar and a MTV Europe Global Music Icon Award. He has ten albums topped the Billboard 200, making him the only artist to achieve this feat and five number one singles on the Billboard Hot 100. Some featured albums: Infinite, The Marshall Mathers LP, The Eminem Show ...",
-        "pic":"eminem copy.jpg"
+        "name":"Lose Myself",
+        "singer":"Ryan Prewett",
+        "pic":"Lose Myself  Ryan Prewett.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     },
     {
         "id":"06",
-        "name":"Eminem",
-        "description":"Marshall Bruce Mathers III (born October 17, 1972), commonly known by his stage name Eminem (often stylized as EMINƎM) is an American male rapper, musician, record producer, and actor. Considered the person who popularized hip hop in Central America, its global success and Eminem's acclaimed music products broke the racial barrier to make it easier for white rappers to embrace it. He became a representative of the lower class of American society. He is a influential artist of various genres. Eminem is one of the best-selling music artists of all time, with an estimated sales of more than 220 million records worldwide. He is also the best-selling music artist in the United States in the 2000s and the best-selling male music artist of the 2010s, ranking third overall. Billboard named him the Artist of the decade (2000–2009). He has won many prestigious awards, including 15 Grammy Awards, 8 American Music Awards, 17 Billboard Music Awards, an Oscar and a MTV Europe Global Music Icon Award. He has ten albums topped the Billboard 200, making him the only artist to achieve this feat and five number one singles on the Billboard Hot 100. Some featured albums: Infinite, The Marshall Mathers LP, The Eminem Show ...",
-        "pic":"eminem copy.jpg"
+        "name":"Castaway",
+        "singer":"Lightboys",
+        "pic":"Castaway - Lightboys.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     }
 ]
