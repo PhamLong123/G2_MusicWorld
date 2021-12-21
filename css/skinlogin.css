@@ -1,0 +1,33 @@
+.form-login-container{
+    border-radius: 2rem;
+    box-sizing: border-box;
+    margin: auto;
+    width: 40%;
+    background-color: rgb(36, 21, 59);
+    border-style: solid;
+    border-color: rgb(235, 216, 48);
+    padding: 2rem;
+    margin-top: 6rem;
+}
+.login-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+.Form-input {
+    flex: 1;
+}
+#user-login {
+    margin-right: 1rem;
+    background-color: rgb(235, 216, 48);
+}
+#Form-input {
+    background-color: rgb(61, 61, 61);
+}
+#bt{
+    border-color: aqua;
+}
+input[type="text"]{
+    color: rgb(255, 255, 255);
+}

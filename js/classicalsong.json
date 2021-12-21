@@ -1,0 +1,44 @@
+[
+    {
+        "id":"01",
+        "name":"Moonlight Sonata ",
+        "singer":"Moonlight Sonata",
+        "pic":"Moonlight_Sonata.jpg",
+        "audio": "<div style=\u0022text-align: center; padding-top: 1em;\u0022> Moonlight Sonata <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Moonlight Sonata-Beethoven.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"02",
+        "name":"Eine Kleine Nachtmusik",
+        "singer":"Mozart",
+        "pic":"Mozart_Eine_Kleine_Nachtmusik.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Eine Kleine Nachtmusik <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Eine-Kleine-Nachtmusik_Mozart.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"03",
+        "name":"Valse Sentimentale",
+        "singer":"Tchaikovsky",
+        "pic":"Tchaikovsky_Valse-Sentimentale.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Valse Sentimentale <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Valse-Sentimentale_Tchaikovsky.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"04",
+        "name":"Palladio",
+        "singer":"Antonio Lucio Vivaldi",
+        "pic":"Antonio-Lucio-Vivaldi_Palladio.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Palladio <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Palladio_Antonio-Lucio-Vivaldin.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"05",
+        "name":"sarabande",
+        "singer":"George Frideric (or Frederick) Handel",
+        "pic":"sarabande.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> sarabande <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Sarabande_Handel.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"06",
+        "name":"Badinerie",
+        "singer":"Johann Sebastian Bach",
+        "pic":"Badinerie.png",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Badinerie <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Badinerie _Johann-Sebastian-Bach LYRICS.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "id":"01",
+        "name":"Help!",
+        "singer":"The Beatles",
+        "pic":"The Beatles Help.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Help! <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Help!_The-Beatles.mp3\u0022 ></audio></div>"
+
+    },
+    {
+        "id":"02",
+        "name":"Love of My Life",
+        "singer":"Queen",
+        "pic":"Queen Love of My Life.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Love of My Life <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Love-of-My-Life_Queen.mp3\u0022 ></audio></div>"
+    },
+    {
+        "id":"03",
+        "name":"Wish You Were Here",
+        "singer":"Pink Floyd",
+        "pic":"Pink Floyd Wish You Were Here.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Wish You Were Here <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Wish-You-Were-Here_Pink-Floyd.mp3\u0022 ></audio></div>"
+    },
+    {
+        "id":"04",
+        "name":"Ramble On",
+        "singer":"Led Zeppelin",
+        "pic":"Led Zeppelin Ramble On.jpeg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Ramble On <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Ramble-On_Led-Zeppelin.mp3\u0022 ></audio></div>"
+    },
+    {
+        "id":"05",
+        "name":"Miss You",
+        "singer":"The Rolling Stones",
+        "pic":"The Rolling Stones Miss You.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Miss You <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 ></audio></div>"
+    },
+    {
+        "id":"06",
+        "name":"Welcome Home",
+        "singer":"Metallica",
+        "pic":"Welcome Home.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Welcome-Home_Metallica.mp3\u0022 ></audio></div>"
+    }
+]

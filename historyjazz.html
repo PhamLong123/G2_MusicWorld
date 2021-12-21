@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music World</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"  type="text/JavaScript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"  type="text/JavaScript"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="icon" href="pic/ios-musical-notes.png">
+
+</head>
+<style>
+    body{
+        background-image:  url(pic/background/53b1bbe4bd6776392f76.jpg);
+    }
+section .box{
+    top: 20px;
+  margin: auto;
+  width: 80%;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, .5);;
+  overflow: hidden;
+}
+section .box:before{
+
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+  filter: blur(1px);
+  margin: -20px;
+  }
+  section .box h2{
+    position: relative;
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 48px;
+    text-transform: uppercase;
+    z-index: 2;
+}
+section .box p{
+  color: black;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: 2;
+}
+section .box strong{
+  color: black;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: 2;
+}
+</style>
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+        <a href="index.html" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="243" height="88" viewBox="0 0 243 88">
+                <rect id="Rectangle_2" data-name="Rectangle 2" width="243" height="88"/>
+                <text id="Music" transform="translate(34 51)" fill="#fff" font-size="31" font-family="Perpetua"><tspan x="0" y="0">Music</tspan></text>
+                <text id="World" transform="translate(142 50)" fill="#fff" font-size="26" font-family="Perpetua"><tspan x="0" y="0">World</tspan></text>
+                <path id="Icon_ionic-ios-musical-notes" data-name="Icon ionic-ios-musical-notes" d="M27.58,3.386,13.738,5.611c-.282.045-.544.2-.544.445V19.414a1.308,1.308,0,0,1-.161.651,1.766,1.766,0,0,1-1.081.707c-.222.061-.524.117-.879.184-1.618.3-4.323.812-4.323,2.882a2.792,2.792,0,0,0,2.8,2.643,3.929,3.929,0,0,0,.477.039h0a9.7,9.7,0,0,0,3.437-.734,2.908,2.908,0,0,0,1.618-2.659V11.3a.472.472,0,0,1,.43-.434l10.2-1.708a.518.518,0,0,1,.644.434v7.282a1.359,1.359,0,0,1-.168.745,1.763,1.763,0,0,1-1.087.707c-.222.061-.591.117-.946.184-1.618.3-4.323.807-4.323,2.876a2.8,2.8,0,0,0,2.806,2.687,6.68,6.68,0,0,0,1.3-.05,8.8,8.8,0,0,0,2.45-.723,2.884,2.884,0,0,0,1.846-2.681V3.815A.513.513,0,0,0,27.58,3.386Z" transform="translate(104.006 28.553)" fill="#fff"/>
+              </svg>            
+        </a>
+    <nav>
+        <div class="header_links">
+            <div class="dropdown">
+                <a class="HD" href="#">Rock</a>
+                    <div class="dropdown-content">
+                        <a href="rocksong.html">Music</a>
+                        <a href="rockband.html">Artist</a>
+                        <a href="historyrock.html">History</a>
+                    </div>
+                </div>
+            <div class="dropdown">
+                <a class="HD" href="#">Pop</a>
+                    <div class="dropdown-content">
+                        <a href="popsong.html">Music</a>
+                        <a href="popsinger.html">Artist</a>
+                        <a href="historypop.html">History</a>
+                    </div>
+                </div>
+            <div class="dropdown">
+                <a class="HD" href="#">Rap</a>
+                    <div class="dropdown-content">
+                        <a href="rapsong.html">Music</a>
+                        <a href="rappers.html">Artist</a>
+                        <a href="historyrap.html">History</a>
+                    </div>
+                </div>
+            <div class="dropdown">
+                <a class="HD" href="#">jazz</a>
+                    <div class="dropdown-content">
+                        <a href="jazzsong.html">Music</a>
+                        <a href="jazzband.html">Artist</a>
+                        <a href="historyjazz.html">History</a>
+                    </div>
+            </div>
+            <div class="dropdown">
+                    <a class="HD" href="#">Classical</a>
+                        <div class="dropdown-content">
+                            <a href="classicalsong.html">Music</a>
+                            <a href="classicalband.html">Artist</a>
+                            <a href="historyclassical.html">History</a>
+                        </div>
+                </div>
+                <a class="HD" href="aboutus.html">About</a>
+                <a class="HD" href="login.html">Login</a>
+        </div>
+
+    </nav>
+    </div>
+</header>
+
+ <div class="w3-row w3-mobile" style="padding-top: 8em;">
+
+  <section>
+  <div class="box">
+    <div style="width: 28%;margin: auto;">
+     <b><p style="font-size: 40px"> History of Jazz</p></b> 
+    </div>
+      <div class="w3-col m12 l12" style=" font-family: monospace; padding: 1em;">
+  
+          <p>The year was 1891 and Buddy Bolden, a barber was playing his cornet in New Orleans. The impressive music which he generated later travelled all the way to Chicago and improvised as an art form which gave the world a break from traditional music. <br>
+
+            This marks the history of jazz music. But the legend of how jazz became America's music can be traced back to the drum beats of tribal Africa and compositions in European music.<br>
+            
+            Jazz music was the result of black creoles sub culture which happened due to the laws regarding segregation in New Orleans.<br>
+            
+            The word jazz was earlier spelled as jazz and in 1912 it was used as west coast slang. Later the American Dialect society referred jazz as the word of the twentieth century.<br>
+            
+            The jazz music history witnessed the togetherness of various subgenres ranging from the 20th century to the 21st century. The period 1890-1910 was the reign of ragtime, blues and New Orleans music. The first ragtime music composition is accredited to Scott Joplin's Maple leaf Rag.<br>
+            
+            Jazz music is the product of a blend of different styles of music and culture. The music of New Orleans gifted jazz its fundamental instruments, the brass and the reed.<br>
+            
+            The Jazz Age (1920's -1930"s) was a culmination of swing style and European style as it embarked the beginning of jazz European music. The increase in the number of musicians, introduction of saxophones, trumpets, trombones, piano, guitar, bass violin and drum made the swing style distinct.<br>
+            
+            The jazz age was the era of prohibition as the members of the elite society considered jazz as dirty music. But the development in jazz music led to its reputation.<br>
+            
+            During 1940's to 50's jazz music observed the most significant age with the advent of bebop music in the jazz music history. The distress among the people after the Second World War transformed the jazz techniques and attitude of the people.<br>
+            
+            Thus bop, the first jazz style without dancing and commercial concerns evolved. It showcased the ideas of the people in military and gave an exposure to young players.<br>
+            
+            owards the end of the 40's cool jazz, free jazz, modal jazz etc came up which reduced the extent of tension created by Bebop.<br>
+            There was a constant shift in jazz music styles after the 1960's and a number of subgenres like Latin jazz, post bop, soul jazz, jazz fusion, jazz funk,, smooth jazz, nu jazz, jazz rap and acid jazz came into the picture.<br>
+            
+            The traditionalist and the experimental divide during the 1980's captured the attention of the world.<br>
+            
+            The history of jazz musicians begins with the afro-Americans and the creoles. Most of the musicians could hardly make a living with jazz and hence they had to do menial jobs for their survival.<br>
+            
+            As the art form gained popularity a new wave of musicians emerged which consisted of world famous players like Joe Oliver, Kid ory, Jelly Roll Morton and Louis Armstrong which took the jazz music to new heights.<br>
+  </p>
+</div>  
+</div>
+</section>
+</div>
+      <div class="w3-col w3-center">
+          <a href="jazzsong.html" class="w3-btn w3-black w3-margin-top w3-margin-bottom">
+              Listen to something !</a>
+      </div>
+  </div>
+
+
+
+</body>

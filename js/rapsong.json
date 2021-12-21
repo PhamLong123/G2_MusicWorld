@@ -1,0 +1,45 @@
+[
+    {
+        "id":"01",
+        "name":"Without Me",
+        "singer":"Eminem",
+        "pic":"Eminem - Without Me.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Without Me <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Without-Me_Eminem.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+
+    },
+    {
+        "id":"02",
+        "name":"Drunk Face",
+        "singer":"MGK",
+        "pic":"MGK - drunk face.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> drunk face <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/drunk-face_Machine-Gun-Kelly.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"03",
+        "name":"Hail Mary",
+        "singer":"Tupac",
+        "pic":"Tupac - Hail Mary.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Hail Mary <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Hail-Mary_Tupac.mp3\u0022></audio></div>"
+    },
+    {
+        "id":"04",
+        "name":"HUMBLE",
+        "singer":"kendrick lamar",
+        "pic":"kendrick lamar - HUMBLE.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> HUMBLE <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/HUMBLE_Kendrick-Lamar.mp3\u0022 ></audio></div>"
+    },
+    {
+        "id":"05",
+        "name":"Hypnotize",
+        "singer":"Bigbie",
+        "pic":"Bigbie - Hypnotize.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Hypnotize <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Hypnotize_Biggie.mp3\u0022 ></audio></div>"
+    },
+    {
+        "id":"06",
+        "name":"BUTTERFLY EFFECT",
+        "singer":"Travic Scott",
+        "pic":"Travic Scott BUTTERFLY EFFECT.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> BUTTERFLY EFFECT <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/BUTTERFL- EFFECT_Travis-Scott.mp3\u0022 ></audio></div>"
+    }
+]

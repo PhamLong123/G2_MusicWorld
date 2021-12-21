@@ -1,0 +1,45 @@
+[
+    {
+        "id":"01",
+        "name":"Mistletoe",
+        "singer":"Justin Bieber",
+        "pic":"Justin Bieber - Mistletoe.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Mistletoe <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Mistletoe_Justin Bieber LYRICS.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+
+    },
+    {
+        "id":"02",
+        "name":"Love Story",
+        "singer":"Taylor Swift",
+        "pic":"Taylor Swift - Love Story.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Love Story <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Love Story_Taylor Swif.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"03",
+        "name":"Diamonds",
+        "singer":"Rihanna",
+        "pic":"Rihanna - Diamonds.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Diamonds <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Diamonds_Rihanna.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"04",
+        "name":"Beat It",
+        "singer":"Michael Jackson",
+        "pic":"Michael Jackson - Beat it.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Beat It <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Beat-It_Michael-Jackson.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"05",
+        "name":"Slow Down",
+        "singer":"Selena Gomez",
+        "pic":"Selena Gomez - Slow Down.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Slow Down <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Slow-Down_Selena-Gomez.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"06",
+        "name":"Perfect Illusion",
+        "singer":"Lady Gaga",
+        "pic":"Laday Gaga - Perfect Illusion.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Perfect Illusion <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Perfect-Illusion_Lady-Gaga.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    }
+]

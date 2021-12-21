@@ -1,0 +1,45 @@
+[
+    {
+        "id":"01",
+        "name":"Hey Laura",
+        "singer":"Gregory Porter",
+        "pic":"Gregory Porter Hey Laura.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Hey Laura <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Hey-Laura_Gregory-Porter.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+
+    },
+    {
+        "id":"02",
+        "name":"Unconditional Love",
+        "singer":"Esperanza Spalding",
+        "pic":"Esperanza Spalding Unconditional Love.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Unconditional Love <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Unconditional Love_Esperanza-Spalding.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"03",
+        "name":"Summertime",
+        "singer":"Melody Gardot",
+        "pic":"Melody Gardot Summertime.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Summertime <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Summertime_Melody Gardot.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"04",
+        "name":"You're Too Beautiful",
+        "singer":"johnny hartman",
+        "pic":"johnny hartman You're Too Beautiful.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> You're Too Beautiful <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/You're-Too-Beautiful_ johnny-hartman.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"05",
+        "name":"My Way",
+        "singer":"Frank Sinatra",
+        "pic":"Frank Sinatra My Way.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> My Way <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/My Way_Frank Sinatra.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"06",
+        "name":"Gloomy Sunday",
+        "singer":"Billie Holiday",
+        "pic":"Billie Holiday - Gloomy Sunday.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> Gloomy Sunday <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/music/Gloomy Sunday_Billie Holiday LYRICS.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    }
+]
