@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Music World</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/hover.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"  type="text/JavaScript"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"  type="text/JavaScript"></script>
@@ -214,10 +215,12 @@ function displayImages(items) {
   $.each(items, function (k, v) {
 
     s += `<div class="col-sm-6 col-md-4 divImage" data-id="${v.id}" >
-                      <img src="pic/artist/${v.pic}" width="300px" height="300px"  alt="" >
+      <div class="hvr-grow" style="width:300px;height300px;cursor:pointer;">
+                      <img src="pic/artist/${v.pic}"  alt="" >
                        <h2 style="color: white;">${v.name}</h2>
                        <br>   
                    </div>
+                  </div>
            `;
 
 
