@@ -5,7 +5,7 @@
     width: 40%;
     background-color: rgb(36, 21, 59);
     border-style: solid;
-    border-color: rgb(235, 216, 48);
+    border-color:aliceblue;
     padding: 2rem;
     margin-top: 6rem;
 }
@@ -18,9 +18,9 @@
 .Form-input {
     flex: 1;
 }
-#user-login {
+.user-login {
     margin-right: 1rem;
-    background-color: rgb(235, 216, 48);
+    color:aliceblue;
 }
 #Form-input {
     background-color: rgb(61, 61, 61);
@@ -30,4 +30,7 @@
 }
 input[type="text"]{
     color: rgb(255, 255, 255);
+}
+body{
+    background-color: black;
 }

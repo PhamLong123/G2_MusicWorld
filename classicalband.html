@@ -19,6 +19,85 @@
     body{
         background-image:  url(pic/background/399039199-1608881915625-adobestock_339859118-scaled.jpeg);
     }
+        .container1 {
+            position: relative;
+            width: 100%;
+        }
+
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .overlay {
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.897);
+            overflow: hidden;
+            width: 100%;
+            height: 0;
+            transition: .5s ease;
+        }
+
+        .container1:hover .overlay {
+            bottom: 0;
+            height: 100%;
+        }
+
+        .content {
+            white-space: nowrap;
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            overflow: hidden;
+            top: 50%;
+            left: 40%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+        a:hover {
+            opacity: 1;
+            text-decoration: none;
+        }
+
+        .imhere {
+            color: burlywood;
+        }
+        
+    section .box{
+      top: 1px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, .5);;
+  overflow: hidden;
+}
+section .box:before{
+
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+  filter: blur(1px);
+  margin: -20px;
+  }
+  section .box p{
+  color: black;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: 2;
+}
 </style>
 <body>
     <header class="header">
@@ -173,7 +252,79 @@
         <hr>
           <div style="margin:auto; width:20%;"> <h1 style="color: aliceblue;">Liveshow</h1></div>
         </div>
-        <hr>  
+        <hr>
+        <div class="w3-row w3-mobile" >
+          <div class="w3-col w3-center m12 l8 " style=" font-family: monospace; padding: 1em; ">
+  <section>
+     <div class="box">
+              <p> 
+                Gianandrea Noseda pairs Beethoven’s Fourth with the Fourth Symphony by William Grant Still—the first Black composer to have a symphony performed by a leading orchestra (Rochester Philharmonic) and to conduct a major American symphony orchestra (Los Angeles Philharmonic).
+                Ludwig van Beethoven: Leonore III – Overture
+                William Grant Still: Symphony No. 4
+                Ludwig van Beethoven: Symphony No. 4
+                
+                Gianandrea Noseda leads the National Symphony Orchestra in the Fourth Symphony by William Grant Still—the first Black composer to have a symphony performed by a leading orchestra (Rochester Philharmonic) and to conduct a major American symphony orchestra (Los Angeles Philharmonic).
+                To close, Beethoven’s Fourth Symphony starts small but grows into a giant. Upon first hearing the masterpiece, a 26-year-old Robert Schumann was so enthralled that he “sat in place without moving a muscle or even breathing.”
+              </p>
+            </div>
+          </section>
+  
+  
+          </div>
+          <div class="w3-col w3-center m12 l4 container1">
+              <img src="pic/artist/noseda-beethoven4_74450.jpg" width="100%" alt="" class="image">
+              <div class="overlay">
+                <div class="content w3-row">
+                    <div class="w3-col  s6 m6 l6">
+                        <div>
+                          <b><p>Noseda conducts William Grant Still 
+                           <br> & Beethoven’s Fourth Symphony</p></b>  
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+          </div>
+
+          <div class="w3-col l9 m12 container1">
+              <img src="img/liveshow/taylor_swift_tour.jpg"  alt="" class="image">
+              <div class="overlay">
+                  <div class="content ">
+                      <div class="w3-col s6 m6 l6">
+                          <div>
+                              <img src="img/liveshow/lover.jpg" alt="" width="90%">
+                          </div>
+  
+  
+                          <div>
+                              <audio controls style="width: 90%;">
+                                  <source src="audio/liveshow/tw-lover.mp3" type="audio/mp3">
+                              </audio>
+                          </div>
+  
+  
+                      </div>
+  
+                      <div class="w3-col s6 m6 l6 " style="float: right;">
+  
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="w3-col l3 m12" style="font-family: monospace; padding: 1em;">
+              <p> The U.S. and Brazil shows will be rescheduled to take place in 2021, with dates to be announced
+                  later this year. Tickets held for each of those shows will transfer to a new show date without
+                  action on the part of the ticket holders.
+              </p>
+              <p>
+                  For those who desire refunds for tickets purchased for the U.S. Lover Fest shows, they will be
+                  available starting May 1st subject to Ticketmaster terms. Watch for an email from Ticketmaster with
+                  instructions on how to request one. For currently available information on all other performance
+                  dates, please visit TaylorSwift.com Thank you so much for understanding. We look forward to seeing
+                  you all, happy and healthy, in the future.
+              </p>
+          </div>  
 </body>
 <script>
 $(document).ready(function () {

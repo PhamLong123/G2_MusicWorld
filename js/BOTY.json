@@ -40,5 +40,74 @@
         "singer":"Lightboys",
         "pic":"Castaway - Lightboys.jpg",
         "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },{
+        "id":"07",
+        "name":"Love You Better",
+        "singer":"Aaron Kellim",
+        "pic":"Aaron_Kellim-Love_You_Better.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"08",
+        "name":"Truth Is",
+        "singer":"Ryan Prewett",
+        "pic":"Truth Is Ryan Prewett.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"09",
+        "name":"Wasted Time",
+        "singer":"Nate Rose & Santino LaBoy & Sober",
+        "pic":"Wasted Time - Nate Rose & Santino LaBoy & Sober.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"10",
+        "name":"Yours",
+        "singer":"Sajan Nauriyal",
+        "pic":"Sajan Nauriyal - Yours.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"11",
+        "name":"Alive",
+        "singer":"Lux-Inspira",
+        "pic":"Lux Inspira  Alive.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"12",
+        "name":"Always Enough",
+        "singer":"Sajan Nauriyal",
+        "pic":"Always Enough - Sajan Nauriyal.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"13",
+        "name":"Your Captain",
+        "singer":"Banana Split",
+        "pic":"Your Captain  Banana Split.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"14",
+        "name":"Born Again",
+        "singer":"Wholm Cageman Michael Shynes",
+        "pic":"Born Again - Wholm Cageman Michael Shynes.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"15",
+        "name":"Don't Feel",
+        "singer":"Ryan Prewett",
+        "pic":"Don't Feel - Ryan Prewett.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
+    },
+    {
+        "id":"16",
+        "name":"Don't Stand a Chance",
+        "singer":"Ofrin",
+        "pic":"Don't Stand a Chance - Ofrin.jpg",
+        "audio":"<div style=\u0022text-align: center; padding-top: 1em;\u0022> <audio controls style=\u0022width: 100%;padding-top: 1em;\u0022 ><source src=\u0022audio/Miss-You_The-Rolling-Stones.mp3\u0022 type=\u0022audio/mp3\u0022></audio></div>"
     }
 ]
