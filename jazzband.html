@@ -20,7 +20,86 @@
     body{
         background-image:  url(pic/background/53b1bbe4bd6776392f76.jpg);
     }
-   
+    .container1 {
+            position: relative;
+            width: 100%;
+        }
+
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .overlay {
+            
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.897);
+            overflow: hidden;
+            width: 100%;
+            height: 0;
+            transition: .5s ease;
+        }
+
+        .container1:hover .overlay {
+            bottom: 0;
+            height: 100%;
+        }
+
+        .content {
+            white-space: nowrap;
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            overflow: hidden;
+            top: 50%;
+            left: 40%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+        a:hover {
+            opacity: 1;
+            text-decoration: none;
+        }
+
+        .imhere {
+            color: burlywood;
+        }
+        
+    section .box{
+      top: 1px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, .5);;
+  overflow: hidden;
+}
+section .box:before{
+
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+  filter: blur(1px);
+  margin: -20px;
+  }
+  section .box p{
+  color: black;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: 2;
+}
 </style>
 <body>
     <header class="header">
@@ -85,7 +164,7 @@
         <div class="row">
             <div class="page-header" >
               <hr>
-               <h1 style="color: aliceblue;text-align: center;">Jazz band</h1>
+               <h1 style="color: aliceblue;text-align: center;">Jazz Artist</h1>
                 </div>
               
                <div class="col-md-10">
@@ -127,9 +206,72 @@
         </div>  
         <hr>
           <div style="margin:auto; width:20%;"> <h1 style="color: aliceblue;">Liveshow</h1></div>
-        </div>
+
         <hr> 
-      </div>
+        <div class="w3-row w3-mobile" >
+          <div class="w3-col w3-center m12 l7" style=" font-family: monospace; padding: 1em; ">
+  <section>
+     <div class="box">
+              <p> 
+                Pianist, composer and music producer Bokani Dyer was born in Botswana to a South African musician father and a Tswana computer specialist mother, and music tumbles constantly out of him in a wild mix of genres. Technology to this young musician is not a hindrance to overcome but a means to speed up composition and access new sounds. During his jazz studies at UCT, Dyer was selected for the Standard Bank National Youth Jazz Band which toured Sweden, and he released his debut album in 2010, and subsequently garnered top awards such as the Standard Bank Young Artist Award for Jazz, SAMRO Overseas Scholarship and a SAMA award for best jazz album in 2019. Dyer’s most recent album, ‘Kelenosi’, was produced during the Covid-19 Pandemic Level 5 Lockdown of last year, and was released in October. Kelenosi – “I am alone” in Setswana – is a reflection on the isolation and soul-searching of the lockdown experience, as well as bearing tribute to jazz greats Bheki Mseleku, Ahmad Jamal and Fela Kuti. It is an entirely different Bokani Dyer sound that joins the worlds of electronic beats and jazz, while retaining the personal, emotive experience that is so characteristic of Dyer.
+                To close, Beethoven’s Fourth Symphony starts small but grows into a giant. Upon first hearing the masterpiece, a 26-year-old Robert Schumann was so enthralled that he “sat in place without moving a muscle or even breathing.”
+              </p>
+            </div>
+          </section>
+  
+  
+          </div>
+
+          <div class="w3-col w3-center m12 l5 container1" style="padding-top: 70px;" >
+              <img src="pic/artist/bokani-dyer-20160128112158.jpg" width="100%" alt="" class="image">
+              <div class="overlay">
+                <div class="content w3-row">
+                    <div class="w3-col  s6 m6 l6">
+                          <b><p>BOKANI DYER – KELENOSI </b><br>
+                            TICKET PRICE: R50.00<br>
+                            GENRE: Jazz<br>
+                            DURATION (MINUTES): 60mins <br>
+                            RELEASE DATE: <br>
+                            -July 08, 2021 00:01 <br>
+                            -August 31, 2021 23:59 <br>
+                          </p>  
+                    </div>
+
+
+                </div>
+            </div>
+          </div>
+
+          <div class="w3-col w3-left l5 m12 container1">
+              <img src="pic/artist/maxresdefault.jpg"   alt="" class="image" style="height: 350px;">
+              <div class="overlay">
+                  <div class="content ">
+                      <div class="w3-col s6 m6 l6">
+                          <div>
+                            <b><p>CHAD LB QUARTET <br></b> 
+                              TICKET PRICE: R50.00 <br>
+                              GENRE: Jazz <br>
+                              DURATION (MINUTES): 60mins <br>
+                              RELEASE DATE: <br>
+                              -July 08, 2021 00:01 <br>
+                              -August 31, 2021 23:59 <br></p> 
+                          </div>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+  
+          <div class="w3-col l7 m12 w3-right" style="font-family: monospace; padding: 1em;">
+            <section>
+            <div class="box">
+              <p>When you’ve played regularly with both Dave Brubeck and Taylor Swift it’s clear that you are able to span music genres! Hailed as a “Sax Phenom” by the New York Daily News, Chad LB has toured globally as a bandleader, and performed with superstars ranging from Chris Botti to Randy Brecker. He has been a featured soloist with premiere ensembles like the Juilliard Jazz Orchestra, and he was formerly a prominent member of the multi Grammy-winning Afro Latin Jazz Orchestra. At only 31-years-old, Chad has now become one of the first jazz headliners of his generation, amassing a loyal social media fan base of over 300 000 followers across platforms. Since graduating from the Brubeck Institute, Chad has performed throughout six continents, and has appeared at venues including Carnegie Hall, the Super Bowl, and Madison Square Garden. His debut album, Imagery Manifesto, was named “Debut Album of the Year” by jazz critic and author, Doug Ramsey, and two of his most recent recordings as a leader, “Onward,” and “Live at The Bridge” feature jazz legend, Randy Brecker, with whom he has toured and headlined jazz festivals throughout the United States and Europe.
+              </p>
+          </div>
+        </div>  
+        </section>
+      </div> 
         <footer class="w3-container w3-center w3-opacity w3-black" >
           <!-- contact -->
       

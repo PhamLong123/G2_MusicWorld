@@ -20,6 +20,86 @@
       background-image:url("pic/background/wp3500210.jpg");
   
     }
+    .container1 {
+            position: relative;
+            width: 100%;
+        }
+
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .overlay {
+            
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.897);
+            overflow: hidden;
+            width: 100%;
+            height: 0;
+            transition: .5s ease;
+        }
+
+        .container1:hover .overlay {
+            bottom: 0;
+            height: 100%;
+        }
+
+        .content {
+            white-space: nowrap;
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            overflow: hidden;
+            top: 50%;
+            left: 40%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+        a:hover {
+            opacity: 1;
+            text-decoration: none;
+        }
+
+        .imhere {
+            color: burlywood;
+        }
+        
+    section .box{
+      top: 1px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, .5);;
+  overflow: hidden;
+}
+section .box:before{
+
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+  filter: blur(1px);
+  margin: -20px;
+  }
+  section .box p{
+  color: black;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: 2;
+}
   </style>
   </head>
   <body>
@@ -177,6 +257,77 @@
            <h1 style="color: aliceblue; text-align: center;">Liveshow</h1>
         </div>
         <hr>  
+        <div class="w3-row w3-mobile" >
+          <div class="w3-col w3-center m12 l6" style=" font-family: monospace; padding: 1em; ">
+  <section>
+     <div class="box">
+              <p> 
+                <br><br><br><br>  Wildre.Kammies@AMEN_EASE is a local Afrikaans, Xhosa and English artist from Jansenville Mohair experience area. AMEN EASE music revolves around rural lifestyle and finding success. Getto gospel and self reliance are the messages AMEN delivers through his music. The name AMEN.EASE is an acronym for Are My Enemies Near (A.M.E.N) and EASE represent the 6-E’s.To Entertain Educate Encourage Empower Elevate Empathise. <br><br><br><br> <br> 
+              </p>
+            </div>
+          </section>
+  
+  
+          </div>
+
+          <div class="w3-col w3-right m12 l6 container1"  >
+              <img src="pic/artist/tải xuống.jpg" width="100%" alt="" class="image">
+              <div class="overlay">
+                <div class="content w3-row">
+                    <div class="w3-col  s6 m6 l6">
+                          <b><p>THE FOUNTAIN OF YOUTH AMEN EASE <br> HIP-HOP/RAP CONCERT 2021</b><br>
+                            TICKET PRICE: R20.00 <br>
+                            GENRE: Rap <br>
+                            DURATION (MINUTES): 35mins <br>
+                            AGES: all ages <br>
+                            RELEASE DATE: <br>
+                            -July 08, 2021 00:01 <br>
+                            -July 31, 2021 23:59 <br>
+                            LANGUAGE: Afrikaans, English, Xhosa <br>
+                          </p>  
+                    </div>
+
+
+                </div>
+            </div>
+          </div>
+
+          <div class="w3-col w3-center l5 m12 container1">
+              <img src="pic/artist/J-Bobs (1).jpg"   alt="" class="image" style="height: 350px;">
+              <div class="overlay">
+                  <div class="content ">
+                      <div class="w3-col s6 m6 l6">
+                          <div>
+                            <b><p>J.BHOBOZA & J.BHOZZA | 17 JULY <br></b> 
+                              LIVE <br>
+                              DURATION: 60mins <br>
+                              TICKET PRICE: R40.00 <br>
+                              DATE: July 17, 2021 15:00 </p> 
+                          </div>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+  
+          <div class="w3-col l7 m12 w3-right" style="font-family: monospace; padding: 1em;">
+            <section>
+            <div class="box">
+              <p>His name is J.Bobs. He is a multifaceted artist. Known mostly for his directorial and literary works, J.Bobs also takes to the stage in capacities beyond game show host. He also Raps! He makes Hip Hop music.
+
+                He is of course a dramatist, and this skill and capacity plays out in a curious fashion when he creates music. He has developed a variety of personas to explore his musical exploits and at the fore of his debut album offering are: J.Bhoboza! and J.Bhozza! <br>
+                                                
+                In this three way, multiple character, concept album – J.Bobs (the narrator), uses his two character archetypes (and other JB cameos) to explore the varied layers of the societal disparities in the landscape of contemporary South African existence. <br>
+                
+                At #NAF21, J.Bobs, joined by the dynamic Ub’Dope Shishini Ensemble, will be launching this album in a live and interactive webinar – with a stellar performance of SWAG meets GONG. This Virtual Album Launch is a press release, wherein attendees and participants will also be allowed an opportunity to engage with the music and the characters. There is a grand universe forming here – and you are invited to witness the anchors of its menjik. <br>
+                
+                Here it is. The long awaited album of the “Maker of the Pots”. Launching at the National Arts Festival. Proudly supported by Standard Bank. <br>
+              </p>
+          </div>
+        </div>  
+        </section>
+      </div> 
         <footer class="w3-container w3-center w3-opacity w3-black" >
           <!-- contact -->
       
