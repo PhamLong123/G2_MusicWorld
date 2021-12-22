@@ -3,19 +3,21 @@
         "id":"01",
         "name":"Gregory Porter",
         "description":"Gregory Porter (born November 4, 1971)[1] is an American singer, songwriter and actor. He has twice won the Grammy Award for Best Jazz Vocal Album: first in 2014 for Liquid Spirit and then again in 2017 for Take Me to the Alley.Gregory Porter was born in Sacramento, California, and was raised in Bakersfield, California, where his mother Ruth was a minister.[3] Porter has seven siblings. His mother was a large influence on his life, having encouraged him to sing in church at an early age. His father, Rufus, was largely absent from his life. Says Porter, 'Everybody had some issues with their father, even if he was in the house. He may have been emotionally absent. My father was just straight-up absent. I hung out with him just a few days in my life. And it wasn't a long time. He just didn’t seem to be completely interested in being there. Maybe he was, I don't know.A 1989 graduate of Highland High School, he received a full athletic scholarship as a football lineman to San Diego State University (SDSU Aztecs), but a shoulder injury during his junior year cut short his football career.Porter's mother died from cancer when he was 21 years old. From her death bed, she entreated him: 'Sing, baby, sing!''",
-        "pic":"Gregory_Porter.jpg"
+        "pic":"Gregory Porter.jpg"
     },
     {
         "id":"02",
+        "name":"Melody Gardot",
+        "description":"Melody Gardot ( born February 2, 1985) is an American jazz singer.At the age of 19, Gardot was involved in a bicycle accident and sustained a head injury. Music played a critical role in her recovery. She became an advocate of music therapy,[1] visiting hospitals and universities to discuss its benefits. In 2012, she gave her name to a music therapy program in New Jersey.Gardot was born in New Jersey and was brought up by her grandparents. Her grandmother was a Polish immigrant. Her mother, a photographer, traveled often, so they had few possessions and lived out of suitcases. Gardot studied fashion at the Community College of Philadelphia.",
+        "pic":"Melody_Gardot.png"
+
+    },
+    {
+        "id":"03",        
         "name":"Esperanza Spalding",
         "description":"Esperanza Emily Spalding (born October 18, 1984) is an American jazz bassist, singer, songwriter, and composer. Her accolades include four Grammy Awards, a Boston Music Award, and a Soul Train Music Award.A native of Portland, Oregon, Spalding began playing music professionally in her childhood, performing as a violinist in the Chamber Music Society of Oregon at age five. She was later both self-taught and trained on a number of instruments, including guitar and bass. Her proficiency earned her academic scholarships to Portland State University and the Berklee College of Music, both of which she attended, studying music.Spalding released her first album, Junjo, in 2006 on the Spanish label Ayva Musica, after which she signed with the independent American label Heads Up, who released her 2007 self-titled album. Her third studio album, Chamber Music Society (2010), was a commercial success, charting at number 34 on the Billboard 200, and resulting in Spalding winning her first Grammy Award for Best New Artist; Spalding was the first jazz artist to win in this category.[2] She saw further acclaim for her fourth release, Radio Music Society (2012), which earned the Grammy for Best Jazz Vocal Album, as well as the track 'City of Roses' winning for Best Arrangement, Instrument and Vocals.After spending the following several years performing as a supporting band player, Spalding released her fifth studio album, a funk rock-inspired concept album titled Emily's D+Evolution, co-produced by Tony Visconti, on Concord Records. The following year, she released the album Exposure, which was limited to 7,777 copies. Her subsequent sixth studio record, 12 Little Spells, was released in 2019, and peaked at number one on Billboard's Top Jazz Albums. The album also saw Spalding nominated for two Grammy Awards, winning in the Best Jazz Vocal Album category.In addition to writing and performing music, Spalding has also worked as an instructor, first at the Berklee College of Music, beginning at age 20. In 2017, Spalding was appointed professor of the Practice of Music at Harvard University. In 2018, Spalding received an honorary doctorate of music from her alma mater, Berklee College of Music, and served as commencement speaker at the ceremony.",
         "pic":"Esperanza_Spalding.jpg"
-    },
-    {
-        "id":"03",
-        "name":"Melody Gardot",
-        "description":"Melody Gardot ( born February 2, 1985) is an American jazz singer.At the age of 19, Gardot was involved in a bicycle accident and sustained a head injury. Music played a critical role in her recovery. She became an advocate of music therapy,[1] visiting hospitals and universities to discuss its benefits. In 2012, she gave her name to a music therapy program in New Jersey.Gardot was born in New Jersey and was brought up by her grandparents. Her grandmother was a Polish immigrant. Her mother, a photographer, traveled often, so they had few possessions and lived out of suitcases. Gardot studied fashion at the Community College of Philadelphia.",
-        "pic":"Melody_Gardot.jpg"
+
     },
     {
         "id":"04",
