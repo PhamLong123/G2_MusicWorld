@@ -21,7 +21,86 @@
       background-image:url("pic/background/Bohemian-Review-Kam.jpg");
   
     }
-  
+    .container1 {
+            position: relative;
+            width: 100%;
+        }
+
+        .image {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .overlay {
+            
+            position: absolute;
+            bottom: 100%;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.897);
+            overflow: hidden;
+            width: 100%;
+            height: 0;
+            transition: .5s ease;
+        }
+
+        .container1:hover .overlay {
+            bottom: 0;
+            height: 100%;
+        }
+
+        .content {
+            white-space: nowrap;
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            overflow: hidden;
+            top: 50%;
+            left: 40%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+        a:hover {
+            opacity: 1;
+            text-decoration: none;
+        }
+
+        .imhere {
+            color: burlywood;
+        }
+        
+    section .box{
+      top: 1px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, .5);;
+  overflow: hidden;
+}
+section .box:before{
+
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+  filter: blur(1px);
+  margin: -20px;
+  }
+  section .box p{
+  color: black;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: 2;
+}
   </style>
 </style>
 </head>
@@ -179,7 +258,60 @@
       <hr>
         <div style="margin:auto; width:20%;"> <h1 style="color: aliceblue;">Liveshow</h1></div>
       </div>
-      <hr>  
+      <hr> 
+      <div class="w3-row w3-mobile" >
+        <div class="w3-col w3-center m12 l6" style=" font-family: monospace; padding: 1em; ">
+<section>
+   <div class="box">
+            <p> 
+              <br><br><b>SCHOOL OF ROCK 2021 ALLSTARS MUSIC PROGRAM</b><br><br> SCHOOL OF ROCK HAS SELECTED 92 OF THE MOST-ACCOMPLISHED STUDENTS FROM ITS GLOBAL NETWORK OF SCHOOLS TO PERFORM IN THE 2021 ALLSTARS MUSIC PROGRAM. THESE ELITE MUSICIANS WILL ENJOY THE EXPERIENCE OF A LIFETIME DURING TWO WEEKENDS —JULY 23 AND JULY 30 — PERFORMING AND RECORDING MUSIC AT ICONIC U.S AND BRAZIL RECORDING STUDIOS AND LIVE VENUES. "ALLSTARS" RECOGNITION IS THE HIGHEST LEVEL OF ACHIEVEMENT FOR A SCHOOL OF ROCK STUDENT. <br><br><br><br> <br> 
+            </p>
+          </div>
+        </section>
+
+
+        </div>
+
+        <div class="w3-col w3-right m12 l6 container1"  >
+            <img src="pic/artist/2045179016417773458665774483268833008563970o-1628187585.jpg" style="height: 420px;" alt="" class="image">
+            <div class="overlay">
+              <div class="content w3-row">
+                  <div class="w3-col  s6 m6 l6" >
+                        <b><p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; "THESE STUDENTS TRULY EMBODY THE PASSION THAT IS <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;THE ROCK-SOLID  FOUNDATION OF ROCK N' ROLL AND WE <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ARE EXCITED TO SHOWCASE THE INCREDIBLE TALENT<br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; THAT RESONATES FROM THE ALLSTARS WEEKENDS"
+                        </p>  
+                  </div>
+
+
+              </div>
+          </div>
+        </div>
+
+        <div class="w3-col w3-center l5 m12 container1">
+            <img src="pic/artist/Coldplay-Goes-Climate-Positive-For-2022-Music-Of-The-Spheres-World-Tour.jpg"   alt="" class="image" style="height: 500px;">
+            <div class="overlay">
+                <div class="content ">
+                    <div class="w3-col s6 m6 l6">
+                        <div>
+                          <b><p>COLD PLAY | 12-24/Aug/2022 <br></b> 
+                            London - Wembley Stadium <br>
+                            Coldplay: Music of the Spheres World Tour</p> 
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="w3-col l7 m12 w3-center" style="font-family: monospace; padding: 1em;">
+          <section>
+          <div class="box">
+            <p> <br><br><br><br><br> Multi platinum-selling quartet Coldplay have announced an extra UK date for their 2022 world tour. Chris Martin and co. will play 19 August at Wembley Stadium as well as the previously announced Wembley dates of 12, 13 and 16 August and Glasgow's Hampden Park on 23 August. Support will come from H.E.R on 12, 13 and 23 August and London Grammar on 16 and 19 August. The band's new album Music Of The Spheres is out now.<br><br><br><br><br><br>
+            </p>
+        </div>
+      </div>  
+      </section>
+    </div>  
       <footer class="w3-container w3-center w3-opacity w3-black" >
         <!-- contact -->
     
